@@ -1,0 +1,1 @@
+export {LottoCard} from './LottoCard'
